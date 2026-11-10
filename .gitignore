@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+# Febucci Text Animator (유료 Unity 에셋 — 재배포 금지, 로컬에만 유지)
+Assets/Plugins/Febucci/
+Assets/Plugins/Febucci.meta
