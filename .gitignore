@@ -100,3 +100,7 @@ InitTestScene*.unity*
 # Febucci Text Animator (유료 Unity 에셋 — 재배포 금지, 로컬에만 유지)
 Assets/Plugins/Febucci/
 Assets/Plugins/Febucci.meta
+
+# 게임 아트(팀 창작물) — 공개 레포에서 제외, 로컬에만 유지
+Assets/Resources/
+Assets/Resources.meta
